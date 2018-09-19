@@ -4,8 +4,8 @@
 
 ---
 
-Title: Space Battle<br>
 Type: Workshop/All day lab<br>
+Class: wdi-cc
 Creator: Akira Wong, adapted by Thom Page <br>
 Topics: OOP console game<br>
 
